@@ -22,7 +22,6 @@ public class FixerClient : MonoBehaviour
 
     [Header("Server Config")]
     public string serverIp = "127.0.0.1";
-    //public string serverIp = "3.107.112.58";
     public int serverPort = 31452;
 
     [Header("Player State Send")]
